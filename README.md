@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MrBlockchainer
 - 👀 I’m interested in Blockchain Tech 
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Blockchain Projects
+- 🌱 I’m currently learning & Implementing Blockchain Tech
+- 🔬 I’m currently Researching on Blockchain Tech
+- 💞️ Are you looking for collaborate on your Blockchain Projects? Connect with me on Twitter
 - 📫 How to reach me? > Find me on Google you will get the way to reach me -> MrBlockchainer
 
 <!---
